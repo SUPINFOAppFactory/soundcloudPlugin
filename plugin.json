@@ -1,0 +1,26 @@
+{
+  "author": "SUPINFO AppFactory",
+  "pluginName": "SoundCloud",
+  "pluginDescription": "With the SoundCloud plugin, simply enter your SoundCloud URL and automatically sync your tracks.Related Topics: MP4,stream",
+  "supportEmail": "supinfoappfactory@supinfo.com",
+    "supportSite":"http://support.appdocumentation.com/knowledge-base/soundcloud-plugin-tutorial/",
+  "offlineModeEnabled": true,
+  "pluginIcon": "icon.png",
+  "control": {
+    "content": {
+      "enabled": true
+    },
+    "design": {
+      "enabled": true
+    },
+    "settings": {
+      "enabled": false
+    }
+  },
+  "widget": {
+  },
+  "features": [{"name":"BackgroundAudio"}],
+  "languages": [
+    "en"
+  ]
+}
