@@ -2,6 +2,10 @@
 
 With the SoundCloud plugin, simply enter your SoundCloud URL and automatically sync your tracks.
 
+###Plugin overview
+
+http://support.appdocumentation.com/knowledge-base/soundcloud-plugin-tutorial
+
 ##How to run and test
 ###Prerequisite are node.js,bower,npm,karma, karma-coverage
 ```bash
